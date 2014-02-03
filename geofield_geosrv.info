@@ -1,0 +1,4 @@
+name = Geofield SQL Server
+description = Provides a SQL Server backend plugin for geofield
+core = 7.x
+dependencies[] = geofield

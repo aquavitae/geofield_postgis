@@ -1,4 +1,0 @@
-name = Geofield PostGIS/SQL Server
-description = Provides a PostGIS or SQL Server backend plugin for geofield
-core = 7.x
-dependencies[] = geofield
